@@ -1,0 +1,9 @@
+vendor
+bin
+coverage
+composer.phar
+composer.lock
+.DS_Store
+../.idea/
+.idea
+example/testeInLaravel
